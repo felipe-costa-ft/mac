@@ -8,3 +8,16 @@ A simple virtual machine for education purposes. Made following [blog post](http
 * SET	; set a value into a register
 * HLT	; stop the program
 
+## Test program
+
+<p>PSH, 5,</p>
+<p>PSH, 6,</p>
+<p>ADD,</p>
+<p>POP</p>
+<p>HLT</p>
+
+<br />
+
+<p>The test program will push 5 and 6 to the stack, then add the two values 
+and psuh the result back on the stack. The POP instruction will print the result
+value for debugging purposes.</p>

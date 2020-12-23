@@ -13,3 +13,7 @@ const int program[] = {
 	POP,
 	HLT
 };
+
+int main() {
+	return 0;
+}
