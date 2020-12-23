@@ -25,6 +25,6 @@ value for debugging purposes.</p>
 # Running
 
 ## Requirements
-    * CMAKE
+* CMAKE
 
 <p>use 'make' to compile and run with './mac'</p>
