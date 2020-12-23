@@ -1,9 +1,18 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+typedef enum {
+    A, B, C, D, E, F, PC, SP,
+    NUM_OF_REGISTERS
+} Registers;
+
+int registers[NUM_OF_REGISTERS];
+
+
+#define sp (registers[SP])
+#define ip (registers[PC])
+
 bool running = true;
-int ip = 0;
-int sp = -1;
 int stack[256];
 
 typedef enum {

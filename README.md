@@ -21,3 +21,10 @@ A simple virtual machine for educational purposes. Made following [blog post](ht
 <p>The test program will push 5 and 6 to the stack, then add the two values 
 and psuh the result back on the stack. The POP instruction will print the result
 value for debugging purposes.</p>
+
+# Running
+
+## Requirements
+    * CMAKE
+
+<p>use 'make' to compile and run with './mac'</p>
