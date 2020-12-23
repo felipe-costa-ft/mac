@@ -1,5 +1,5 @@
 # mac
-A simple virtual machine for education purposes. Made following [blog post](https://felixangell.com/blogs/virtual-machine-in-c).
+A simple virtual machine for educational purposes. Made following [blog post](https://felixangell.com/blogs/virtual-machine-in-c).
 
 ## Instruction set
 * PSH	; push to the stack
