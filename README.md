@@ -22,7 +22,7 @@ A simple virtual machine for educational purposes. Made following [blog post](ht
 and psuh the result back on the stack. The POP instruction will print the result
 value for debugging purposes.</p>
 
-# Running
+# Compile and Run
 
 ## Requirements
 * CMAKE
